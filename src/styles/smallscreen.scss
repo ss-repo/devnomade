@@ -1,0 +1,96 @@
+@media only screen and (max-width: 1399px){
+    /*section-about*/
+    .section-about-font{
+        margin-left: 0.9375rem;
+    }
+
+    .section-about-subtitle-1{
+        font-size: 290%;
+    }
+
+    .section-about-subtitle-2{
+        font-size: 180%;
+    }
+
+    /*section-sales*/
+    .section-sales-promotional-text-bold{
+        margin-right: 65%;
+    }
+
+}
+
+@media only screen and (max-width: 1199px){
+   
+    /*section-projects*/
+    .section-projects-link{
+        margin-top: 3.75rem;
+    }
+     /*section-strategy*/
+     .section-strategy-content{
+        font-size:80%;
+    }
+    /*section-services*/
+    .section-services-link{
+        margin-left: -0.625rem;
+    }
+    .section-services-button{
+        margin-left: 2.8125rem;
+    }
+
+    /*section-sales*/
+    .section-sales-table-prices-text{
+        font-size: 75%;
+    }
+
+    .section-sales-promotional-price{
+        font-size: 150%;
+    }
+
+    .section-sales-promotional-text-bold{
+        margin-right: 68%;
+    }
+
+    .section-sales-tables-package-title{
+        font-size: 75%;
+    }
+
+    .section-sales-title{
+        font-size: 195%;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    
+    /*section-intro*/
+    .intro-image{
+        left:12.5rem;
+    }
+   
+    /*section-projects*/
+    .section-projects-link{
+        margin-top: 3.75rem;
+    }
+    /*section-strategy*/
+    .section-strategy-content{
+        margin-left: -1.875rem;
+        margin-right: -0.625rem;
+        font-size: 90%;
+    }
+
+    /*section-services*/
+    .section-services-link{
+        margin-left: -0.625rem;
+    }
+
+    .section-services-button{
+        margin-left: 2.8125rem;
+    }
+
+    /*section-subscribe*/
+    .section-subscribe-text{
+        margin-left: 3.125rem;
+        margin-right: 0;
+    }
+
+}  
+

@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+ }
+
+body{
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    font-size: 100%;
+}
+
+:root{
+    --color-blue:#1A17DD;
+    --color-white:white;
+    --color-black:black;
+    --color-gray:#8C8C8C;
+    --color-blue-light:#615EEE;
+    --color-blue-white:#B0AFF7;
+    --color-blue-dark:#110F93;
+    --color-blue-black:#09084A;
+    --color-blue-gradient:linear-gradient(90deg, rgba(26,23,221,1) 11%, rgba(23,221,125,1) 100%);
+}
